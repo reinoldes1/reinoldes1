@@ -1,7 +1,7 @@
 # Oi eu sou o João 👋
 Atualmente sou estudante de Ciência da Computação, programador e entusiasta de Linux.
 
-## ℹ️ Algumas informações sobre mim:
+## 📌 Algumas informações sobre mim:
 - 🌱 Linguagens que estou aprendendo a programar: Python, Jave, C#, C e Bash/Shell.
 - 🛢️ Conhecimento em banco de dados: SQL
 - 🛠️ Frameworks que já utilizei: Spring Boot, Pandas, NumPy, LangChain, RAG, ASP.NET Core
